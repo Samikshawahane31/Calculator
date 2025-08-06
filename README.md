@@ -1,1 +1,2 @@
 # Calculator
+This is a simple web-based calculator built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. The calculator includes functional buttons for clearing all input (AC), deleting the last character (DEL), and evaluating the expression (=). It features a clean, responsive user interface and handles user interactions through JavaScript event listeners. This project is ideal for beginners to understand DOM manipulation and basic logic implementation in JavaScript.
